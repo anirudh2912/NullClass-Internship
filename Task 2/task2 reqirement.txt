@@ -1,0 +1,14 @@
+Streamlit is a framework for constructing web applications with Python which are also interactive.
+
+google-generativeai:
+Google Generative AI is a library that enables users to interact with Google's generative AI models.
+
+Pillow:
+Pillow is a Python Imaging Library (PIL) fork that adds to the image processing capabilities.
+
+python-dotenv:
+python-dotenv is used to load environment variables from a .env file.
+
+ipython:
+With IPython,a complete suite of Python tools are available
+

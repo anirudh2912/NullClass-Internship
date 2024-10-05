@@ -1,0 +1,13 @@
+﻿numpy: It is one of the most powerful mathematical computing libraries in the Python ecosystem, widely used for basic linear algebra operations
+
+nltk: A toolkit for executing human-to-computer learning technologies such as tokenization, lemmatization, etc.
+
+keras: "TensorFlow Keras", a high-level neural network API, is running over TensorFlow dedicatedly.
+
+tensorflow: It is an open-source foundation of machine learning and neural network model training.
+
+tk: A framework to create a GUI that is a graphical user interface for Python, it is a python wrapper with the tkinter module. Worldwide.
+
+pickle: A pickle-mixin module is used for loading and saving data. It is a simple tool. The module allows you to convert objects into byte streams and back by running a script.
+
+Counter: Used to count the number of occurrences of elements in a collection of list, strings etc
